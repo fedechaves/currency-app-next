@@ -1,3 +1,39 @@
+# Currency Converter - Your Private Album || src: https://privagram.onrender.com/
+
+A simple currency converter web App, built for a quick look to currency conversion when you have to pay in another currency.
+
+![login](public/)
+
+> Be sure to add that lovely star 😀 and fork it for your own copy
+
+---
+
+# How it's made
+
+**Tech used:** REACT, TypeScript, NextJS, TailwindCSS.
+
+**Notable Dependencies:**
+
+* NextJS (https://nextjs.org/)
+   - Next.js is a powerful React framework that offers server-side rendering, static site generation, and other features to enhance the performance and development experience of web applications.
+* tailwindCSS (https://tailwindcss.com/)
+   - A utility-first CSS framework for rapidly building custom user interfaces.
+* TypeScript (https://www.typescriptlang.org/)
+   - TypeScript is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. 
+* React- local (https://react.dev/)
+   - React is a library for creating user interfaces.
+
+---
+
+# Lessons Learned:
+
+SSR can improve speed and SEO to web applications.
+
+Optimizations: Find an API to fetch currencies data and refresh every 30 - 60 minutes.  
+
+---
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
