@@ -1,4 +1,4 @@
-# Currency Converter || src: [https://privagram.onrender.com/](https://currency-app-next.vercel.app/)
+# Currency Converter || src: [https://currency-app-next.vercel.app/]
 
 A simple currency converter web App, built for a quick look to currency conversion when you have to pay in another currency.
 
