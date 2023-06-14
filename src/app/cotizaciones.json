@@ -1,0 +1,22 @@
+{
+  "Dólar": {
+    "compra": 7255.00,
+    "venta": 7300.00,
+    "currency": "USD"
+  },
+  "Euro" : {
+    "compra": 8200.00,
+    "venta": 8350.00,
+    "currency": "EUR"
+  },
+  "Real": {
+    "compra": 1425.00,
+    "venta": 1475.00,
+    "currency": "BRL"
+  },
+  "Peso Argentino": {
+    "compra": 14.80,
+    "venta": 16.00,
+    "currency": "ARS"
+  }
+}
