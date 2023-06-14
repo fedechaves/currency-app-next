@@ -1,8 +1,8 @@
-# Currency Converter - Your Private Album || src: https://privagram.onrender.com/
+# Currency Converter || src: https://privagram.onrender.com/
 
 A simple currency converter web App, built for a quick look to currency conversion when you have to pay in another currency.
 
-![login](public/)
+![login](public/graph.JPG)
 
 > Be sure to add that lovely star 😀 and fork it for your own copy
 
